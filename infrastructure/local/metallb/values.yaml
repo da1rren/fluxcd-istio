@@ -1,0 +1,7 @@
+controller:
+  image:
+    repository: localhost:5001/metallb/controller
+
+speaker:
+  image:
+    repository: localhost:5001/metallb/speaker
